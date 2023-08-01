@@ -1,9 +1,10 @@
+#💫 Sobre mim:
+
 ### Olá! Eu sou Ronildo Sousa 👋🏾
 
-#💫 Sobre mim:
-💬 Faça-me perguntas sobre HTML, CSS, JS.
-👨‍💻 Também estou aprendendo NodeJs, React e Salesforce
-⚡ Curiosidade Eu sou pé no chão e divertido.
+💬 Faça-me perguntas sobre HTML, CSS, JS. 👨‍💻 Também estou aprendendo NodeJs, React e Salesforce. ⚡ Curiosidade Eu sou pé no chão e divertido.
+
+
 
 ## 🌐 Redes sociais:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whats.link/ronildosousa)
