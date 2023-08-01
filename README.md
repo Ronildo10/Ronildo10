@@ -1,9 +1,10 @@
 ### 💫 Sobre mim:
-
 #Óla! Eu sou Ronildo Sousa 👋🏾
 
-💬 Faça-me perguntas sobre HTML, CSS, JS. 
+💬 Faça-me perguntas sobre HTML, CSS, JS.
+
 👨‍💻 Também estou aprendendo NodeJs, React e Salesforce.
+
 ⚡ Curiosidade Eu sou pé no chão e divertido.
 
 
